@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Node.js, Express.js, JavaScript, MongoDB**
+- 💬 Ask me about **Node.js, Express.js, JavaScript, MongoDB, TypeScript**
 
 - 📫 How to reach me **navyendhummenon@gmail.com**
 
