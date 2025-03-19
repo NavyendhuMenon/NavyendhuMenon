@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Node.js, Express.js, JavaScript, MongoDB, TypeScript**
+- 💬 Ask me about **Node.js, Express.js, JavaScript, MongoDB, TypeScript, React js**
 
 - 📫 How to reach me **navyendhummenon@gmail.com**
 
