@@ -61,22 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navyendhumenon&show_icons=true&theme=gruvbox" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=navyendhumenon&theme=gruvbox&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyendhumenon&layout=compact&theme=gruvbox" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - 🌐 Building full-stack projects with advanced patterns
