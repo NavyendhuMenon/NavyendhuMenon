@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on building full-stack web apps.
 - 🌱 Learning **Next.js, **TypeScript**, and **System Design**.
-- 💬 Ask me about: MERN Stack, Authentication, REST APIs, DSA, Deployment.
+- 💬 Ask me about: MERN Stack.
 - 🧠 Practicing data structures & algorithms on LeetCode.
 - 💡 Believer in clean code, continuous learning, and real-world projects.
 - 📍 Based in Kochi, India 🇮🇳
